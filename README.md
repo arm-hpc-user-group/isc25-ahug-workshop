@@ -27,7 +27,7 @@ The 2025 Arm HPC User Group (AHUG) Workshop is held in conjunction with [**ISC H
 <tbody>
 <tr>
 <td markdown="span">09:00-09:05</td>
-<td markdown="span">10m</td>
+<td markdown="span">5m</td>
 <td markdown="span">**Welcome & Plenary address**</td>
 <td markdown="span">Filippo Spiga (NVIDIA / AHUG)</td>
 </tr>
