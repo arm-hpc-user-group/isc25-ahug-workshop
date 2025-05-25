@@ -1,6 +1,6 @@
 # Arm HPC User Group Workshop @ ISC25
 
-The 2025 Arm HPC User Group (AHUG) Workshop is held in conjunction with [**ISC High Performance 2024**](https://www.isc-hpc.com/) in Hamburg, Germany. 
+The 2025 Arm HPC User Group (AHUG) Workshop is held in conjunction with [**ISC High Performance 2025**](https://www.isc-hpc.com/) in Hamburg, Germany. 
 
 **Date & Time**: June 13rd, 2025 @ 9:00am - 1:00pm <br>
 **Location**: Hall X5 - 1st floor, Congress Center Hamburg (CCH), Germany
@@ -48,7 +48,7 @@ The 2025 Arm HPC User Group (AHUG) Workshop is held in conjunction with [**ISC H
 <td markdown="span">10:10-10:35</td>
 <td markdown="span">25m</td>
 <td markdown="span">**Early results from Isambard 3, one of the first NVIDIA Grace CPU-based systems**</td>
-<td markdown="span">Tom Green (Univ. Bristol, BriCS), Prof. Simon McIntosh-Smith (Univ. Bristol, BriCS)</td>
+<td markdown="span">Tom Green (Univ. Bristol, BriCS), Simon McIntosh-Smith (Univ. Bristol, BriCS)</td>
 </tr>
 <tr>
 <td markdown="span">10:35-11:00</td>
@@ -59,7 +59,7 @@ The 2025 Arm HPC User Group (AHUG) Workshop is held in conjunction with [**ISC H
 <tr>
 <td markdown="span">11:00-11:30</td>
 <td markdown="span">30m</td>
-<td colspan="3" markdown="span">_Coffee break_</td>
+<td colspan="3" markdown="span">Coffee break</td>
 </tr>
 <tr>
 <td markdown="span">11:30-11:55</td>
