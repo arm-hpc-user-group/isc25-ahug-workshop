@@ -1,0 +1,7 @@
+theme: jekyll-theme-dinky
+title: "Arm HPC User Group Workshop @ ISC25"
+description: An ISC 2025 Workshop
+#remote_theme: pages-themes/dinky@v0.2.0
+#plugins:
+#- jekyll-remote-theme
+
