@@ -35,25 +35,25 @@ The 2025 Arm HPC User Group (AHUG) Workshop is held in conjunction with [**ISC H
 <td markdown="span">09:05-09:45</td>
 <td markdown="span">40m</td>
 <td markdown="span"><font size="-1">Invited Talk</font><br>
-**Fugaku-LLM: A Large Language Model Trained on the Supercomputer Fugaku** <a href="slides/ISC25_AHUG_Fujitsu">PDF</a></td>
+**Fugaku-LLM: A Large Language Model Trained on the Supercomputer Fugaku** -- (<a href="slides/ISC25_AHUG_Fujitsu.pdf">**SLIDES**</a>)</td>
 <td markdown="span">Koichi Shirahata (Fujitsu)</td>
 </tr>
 <tr>
 <td markdown="span">09:45-10:10</td>
 <td markdown="span">25m</td>
-<td markdown="span">**An Overview of the Maturity of SYCL Implementations and Backends for AArch64**</td>
+<td markdown="span">**An Overview of the Maturity of SYCL Implementations and Backends for AArch64** -- (<a href="slides/AHUG_ISC25_SiPearl.pdf">**SLIDES**</a>)</td>
 <td markdown="span">Etienne Renault (SiPearl)</td>
 </tr>
 <tr>
 <td markdown="span">10:10-10:35</td>
 <td markdown="span">25m</td>
-<td markdown="span">**Early results from Isambard 3, one of the first NVIDIA Grace CPU-based systems**</td>
+<td markdown="span">**Early results from Isambard 3, one of the first NVIDIA Grace CPU-based systems**-- (<a href="slides/ISC25_AHUG_Bristol.pdf">**SLIDES**</a>)</td>
 <td markdown="span">Tom Green (Univ. Bristol, BriCS), Simon McIntosh-Smith (Univ. Bristol, BriCS)</td>
 </tr>
 <tr>
 <td markdown="span">10:35-11:00</td>
 <td markdown="span">25m</td>
-<td markdown="span">**Porting and tuning GROMACS on Arm SVE**</td>
+<td markdown="span">**Porting and tuning GROMACS on Arm SVE** -- (<a href="slides/AHUG_ISC25_RIST.pdf">**SLIDES**</a>)</td>
 <td markdown="span">Gilles Gouaillardet (RIST)</td>
 </tr>
 <tr>
@@ -64,19 +64,19 @@ The 2025 Arm HPC User Group (AHUG) Workshop is held in conjunction with [**ISC H
 <tr>
 <td markdown="span">11:30-11:55</td>
 <td markdown="span">25m</td>
-<td markdown="span">**MareNostrum5's Graceful landing**</td>
+<td markdown="span">**MareNostrum5's Graceful landing** -- (<a href="slides/ISC25_AHUG_BSC.pdf">**SLIDES**</a>)</td>
 <td markdown="span">Majesa Trimmel (BSC), Fabio Banchelli (BSC)</td>
 </tr>
 <tr>
 <td markdown="span">11:55-12:20</td>
 <td markdown="span">25m</td>
-<td markdown="span">**Advancing the ARM Ecosystem for European Scientific Flagship Codes**</td>
+<td markdown="span">**Advancing the ARM Ecosystem for European Scientific Flagship Codes** -- (<a href="slides/ISC25_AHUG_Eviden.pdf">**SLIDES**</a>)</td>
 <td markdown="span">Erwan Raffin (EVIDEN)</td>
 </tr>
 <tr>
 <td markdown="span">12:20-12:45</td>
 <td markdown="span">25m</td>
-<td markdown="span">**Exploring compiler behavior on an industrial application (OpenRadioss) on modern arm processors**</td>
+<td markdown="span">**Exploring compiler behavior on an industrial application (OpenRadioss) on modern arm processors** -- (<a href="slides/ISC25_AHUG_UVSQ.pdf">**SLIDES**</a>)</td>
 <td markdown="span">Hugo Bolloré (UVSQ)</td>
 </tr>
 <tr>
