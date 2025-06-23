@@ -47,7 +47,7 @@ The 2025 Arm HPC User Group (AHUG) Workshop is held in conjunction with [**ISC H
 <tr>
 <td markdown="span">10:10-10:35</td>
 <td markdown="span">25m</td>
-<td markdown="span">**Early results from Isambard 3, one of the first NVIDIA Grace CPU-based systems**-- (<a href="slides/ISC25_AHUG_Bristol.pdf" target="_blank">**SLIDES**</a>)</td>
+<td markdown="span">**Early results from Isambard 3, one of the first NVIDIA Grace CPU-based systems** -- (<a href="slides/ISC25_AHUG_Bristol.pdf" target="_blank">**SLIDES**</a>)</td>
 <td markdown="span">Tom Green (Univ. Bristol, BriCS), Simon McIntosh-Smith (Univ. Bristol, BriCS)</td>
 </tr>
 <tr>
