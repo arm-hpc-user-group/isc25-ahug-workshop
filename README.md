@@ -35,7 +35,7 @@ The 2025 Arm HPC User Group (AHUG) Workshop is held in conjunction with [**ISC H
 <td markdown="span">09:05-09:45</td>
 <td markdown="span">40m</td>
 <td markdown="span"><font size="-1">Invited Talk</font><br>
-**Fugaku-LLM: A Large Language Model Trained on the Supercomputer Fugaku**</td>
+**Fugaku-LLM: A Large Language Model Trained on the Supercomputer Fugaku** <a href="slides/ISC25_AHUG_Fujitsu">PDF</a></td>
 <td markdown="span">Koichi Shirahata (Fujitsu)</td>
 </tr>
 <tr>
